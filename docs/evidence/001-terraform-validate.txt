@@ -1,0 +1,7 @@
+# terraform validate - 2026-11-07
+Terraform v1.16.3
+on linux_amd64
++ provider registry.terraform.io/hashicorp/azurerm v4.81.0
+
+[32m[1mSuccess![0m The configuration is valid.
+[0m
